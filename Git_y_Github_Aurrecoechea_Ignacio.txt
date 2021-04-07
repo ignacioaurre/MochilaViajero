@@ -1,0 +1,5 @@
+1) El sistema de control de versión Git lo inventó Linus Torvalds para el desarrollo de Linux kernel. Se vió en la necesidad de crearlo ya que al programa que usaban previamente (BitKeeper) se le retiró el uso gratis. El dueño de los derechos, Larry McVoy, adució que un competidor habia aprovechado su codigo para crear SourcePuller. 
+
+2)Actualmente Github pertenece a Microsoft que la adquirió en 2018. La compra se debe la empresa vió un gran crecimiento y futuro a los servicios computacionales en la nube asi mismo como desarrollo y contribuciones en open-source software.
+
+3)Si no se quiere trabajar desde la terminal, se puede trabajar desde algunos editores de codigo como Visual Studio Code o mismo desde la página de Github.
